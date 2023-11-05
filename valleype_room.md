@@ -82,8 +82,8 @@ run bash -p
 
 
 # flags
-	user.txt: THM{k@l1_1n_th3_v@lley}
-	root.txt: THM{v@lley_0f_th3_sh@d0w_0f_pr1v3sc}
+	user.txt: THM{k@l1_**lley}
+	root.txt: THM{v@lley**_pr1v3sc}
 
 
 
