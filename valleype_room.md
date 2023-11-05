@@ -1,5 +1,16 @@
 # ip 
 	10.10.170.77
+# nmap
+	# 22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.5 (Ubuntu Linux; protocol 2.0)
+
+	# 80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+	|_http-server-header: Apache/2.4.41 (Ubuntu)
+	|_http-title: Site doesn't have a title (text/html).
+	Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+	# 37370/tcp open  ftp     vsftpd 3.0.3
+	Service Info: OS: Unix
+
+
 
 # dir
 	/gallery/
